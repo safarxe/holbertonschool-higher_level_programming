@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# 3-say_my_name.py
 """
 Module for printing names.
 This module provides a function to print a formatted name.
