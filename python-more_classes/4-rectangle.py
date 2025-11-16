@@ -60,5 +60,3 @@ class Rectangle:
     def __repr__(self):
         """return eval representation"""
         return "Rectangle({}, {})".format(self.__width, self.__height)
-
-
