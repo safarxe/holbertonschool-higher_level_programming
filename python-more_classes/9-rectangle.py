@@ -86,3 +86,5 @@ class Rectangle:
     def square(cls, size=0):
         """create square rectangle"""
         return cls(size, size)
+
+
